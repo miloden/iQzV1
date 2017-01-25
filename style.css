@@ -1,0 +1,108 @@
+h1 {
+  font-weight: bold;
+  font-size: 56px;
+  color: yellow;
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  color: white;
+  background-color: red !important;
+  font-family: helvetica;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.quiz{
+  max-width: 500px
+}
+
+p {
+  display: none;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+p:nth-of-type(1){
+  display: block;
+}
+
+p span {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 1px white solid;
+}
+
+p span:hover {
+  cursor: pointer;
+  background: rgba(205, 100, 100, 0.5);
+}
+
+em{
+  bottom: 0px;
+  left: 0px;
+  font-size: 30px;
+  padding: 10px 0px 20px 0px;
+  width: 100%;
+  background: red;
+}
+
+#final{
+    display: none;
+    color: yellow;
+     font-size: 24px;
+}
+
+.nav-link{
+    color: yellow !important;
+}
+
+.dropdown-menu{
+  color: yellow !important;
+}
+
+.dropdown-item{
+  color: yellow !important;
+}
+.navbar-brand{
+    color: yellow !important;
+}
+
+.dropdown-menu { 
+  background-color: #FF0000 !important;
+}
+
+.return-home {
+  text-align: center;
+  color: yellow;
+   font-size: 24px;
+}
+
+.footer{
+  font-size: 10px;
+  text-align: left;
+}
+
+.card-text{
+  color: yellow;
+  font-size: 16px;
+}
+
+.btn{
+  color: yellow !important;
+  background-color: red !important;
+  border: 1px solid yellow !important;
+}
+
+card{
+  border-color: yellow !important;
+}
+
+.quiz-img{
+  max-height: 50px;
+  max-width: 100px:
+}

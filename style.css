@@ -1,14 +1,14 @@
 h1 {
   font-weight: bold;
   font-size: 56px;
-  color: yellow;
+  color: #4717F6;
   font-weight: bold;
   text-align: center;
 }
 
 body {
-  color: white;
-  background-color: red !important;
+  color: ;
+  background-color: white !important;
   font-family: helvetica;
   margin-right: auto;
   margin-left: auto;
@@ -34,12 +34,12 @@ p span {
   text-align: center;
   padding: 10px;
   margin: 10px;
-  border: 1px white solid;
+  border: 1px #A239CA solid;
 }
 
 p span:hover {
   cursor: pointer;
-  background: rgba(205, 100, 100, 0.5);
+  background: #A239CA ;
 }
 
 em{
@@ -48,37 +48,37 @@ em{
   font-size: 30px;
   padding: 10px 0px 20px 0px;
   width: 100%;
-  background: red;
+  background: white;
 }
 
 #final{
     display: none;
-    color: yellow;
+    color: #4717F6;
      font-size: 24px;
 }
 
 .nav-link{
-    color: yellow !important;
+    color:  #4717F6 !important;
 }
 
 .dropdown-menu{
-  color: yellow !important;
+  color: #A239CA !important;
 }
 
 .dropdown-item{
-  color: yellow !important;
+  color: #4717F6 !important;
 }
 .navbar-brand{
-    color: yellow !important;
+    color: #4717F6 !important;
 }
 
 .dropdown-menu { 
-  background-color: #FF0000 !important;
+  background-color: white !important;
 }
 
 .return-home {
   text-align: center;
-  color: yellow;
+  color:#4717F6 ;
    font-size: 24px;
 }
 
@@ -88,18 +88,18 @@ em{
 }
 
 .card-text{
-  color: yellow;
+  color: #4717F6;
   font-size: 16px;
 }
 
 .btn{
-  color: yellow !important;
-  background-color: red !important;
-  border: 1px solid yellow !important;
+  color:  #4717F6!important;
+  background-color: white !important;
+  border: 1px solid #A239CA !important;
 }
 
 card{
-  border-color: #CF000F !important;
+  border-color: #A239CA !important;
 }
 
 .quiz-img{
